@@ -66,7 +66,7 @@ a{
     border-radius: 20px;
 }
 
-div{
+#aa, #bb, #cc{
     height: 100px;
     width: 100px;
     background-color: pink;
@@ -80,4 +80,50 @@ div{
     margin-left: 50px; */
     margin: 25px;
     /* margin: 2px 3px 2px 3px; */
+}
+
+/* #ab{
+    background-color: red;
+    display: inline;
+}
+button{
+    background-color: pink;
+    display: block;
+}
+
+#a1{
+    background-color: blue;
+} */
+/* #a2{
+    background-color: green;
+    visibility: hidden;
+} */
+/* #a3{
+    background-color: yellow;
+    display: none;
+} */
+/* div{
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    margin: 25px;
+    /* display: inline; 
+    display: inline-block;
+} */
+
+div{
+    width: 100px;
+    height: 100px;
+    padding: 25px;
+    margin: 25px;
+    display: inline-block;
+}
+#box1{
+    background-color: rgba(0, 0, 255, 0.4);
+}
+#box2{
+    background-color: rgba(0, 0, 255, 0.75);
+}
+#box3{
+    background-color: rgba(0, 0, 255, 1);
 }
