@@ -1,0 +1,83 @@
+#one{
+    font-family: arial;
+    text-align: left;
+    background-color: aqua;
+}
+
+#b101{
+    text-align: center;
+    text-decoration: red underline;
+    /* text-decoration: blue wavy underline; */
+    font-weight: normal;
+}
+a{
+    text-decoration: none;
+}
+
+#h1{
+    font-weight: normal;
+}
+#h2{
+    font-weight: bold;
+}
+#h3{
+    font-weight: bolder;
+}
+#h4{
+    font-weight: lighter;
+}
+
+#two{
+   font-family: 'segoe UI';
+   /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+}
+
+#one2{
+    font-size:  42px;
+}
+#one3{
+    font-size:  10px;
+}
+
+#one1{
+    font-size:  22px;
+    /* line-height: normal;
+    line-height: 5px; */
+    line-height: 25px;
+    /* text-transform: capitalize; */
+    /* text-transform:lowercase; */
+    text-transform:uppercase;
+}
+
+
+#h{
+    text-decoration: red underline;
+}
+
+#div1{
+    width: 150px;
+    height: 100px;
+    background-color: pink;
+    /* border-width: 3px;
+    border-style: dotted;
+    border-color: yellow; */
+    border: 3px dotted yellow;
+    text-align: center;
+    border-radius: 20px;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border: 2px solid brown;
+    border-radius: 15px;
+    /* padding-left: 25px;
+    padding-right: 25px; */
+    padding: 25px;
+    /* padding: 1px 2px 3px 4px; */
+    /* margin-top: 50px;
+    margin-left: 50px; */
+    margin: 25px;
+    /* margin: 2px 3px 2px 3px; */
+}

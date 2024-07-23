@@ -1,0 +1,13 @@
+#heading{
+    text-decoration: black dashed underline;
+    color: green;
+}
+p{
+    text-align: start;
+    color: rebeccapurple;
+    text-decoration: blue wavy underline;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 29px;
+    text-transform: capitalize;
+}

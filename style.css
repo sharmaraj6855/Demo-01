@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+    background-color: gray;
+}
+h2{
+    color: green;
+    background-color: rgb(216, 143, 151);
+}
+p{
+    color: rgb(255, 255, 0);
+}
+
+#a101{
+    text-align: right;
+    background-color: black;
+}
